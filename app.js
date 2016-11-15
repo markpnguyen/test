@@ -1,6 +1,6 @@
 $(document).ready(function(){
                                                    	
-	alert('I am a box!');
+	alert('One ring, to rule them all...');
 
 
 	});
